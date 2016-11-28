@@ -5,6 +5,7 @@ public class app {
 		System.out.println("giit test ");
 		System.out.println("mon dernier exemple giit");
 		System.out.println("giit ignore project");
+		System.out.println("giit ignore ");
 	}
 
 }
